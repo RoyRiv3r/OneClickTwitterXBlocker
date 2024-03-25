@@ -16,11 +16,11 @@ Using One Click XTwitter Blocker is as easy as it gets:
 
 ## Download 
 
-Install from Firefox add-on website : https://addons.mozilla.org/en-GB/firefox/addon/one-click-xtwitter-blocker/
+Install from Firefox add-on website : [https://addons.mozilla.org/en-GB/firefox/addon/one-click-xtwitter-blocker/](https://addons.mozilla.org/en-GB/firefox/addon/one-click-xtwitter-blocker/)
 
 OR 
 
-Download the `.xpi` release : [1.0.0](https://addons.mozilla.org/firefox/downloads/file/4254685/one_click_xtwitter_blocker-1.0.0.zip)
+Download the `.xpi` release : [1.0.0](https://addons.mozilla.org/firefox/downloads/file/4254794/one_click_xtwitter_blocker-1.1.0.xpi)
 
 
 ## License
